@@ -7,9 +7,7 @@
 .navbar .logo{
     width: max(10%,80px);
 }
+
 .navbar .profile{
     width: 40px;
-}
-.login-conditon{
-    font-size: 20px;
 }

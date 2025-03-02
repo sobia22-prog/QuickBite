@@ -12,7 +12,6 @@
     grid-template-columns: 0.5fr 2fr 1fr 1fr 2fr 1fr;
     align-items: center;
     gap: 30px;
-    font-size: 14px;
     padding: 10px 20px;
     color: #454545;
     border: 1px solid tomato;
@@ -35,6 +34,7 @@
     cursor: pointer;
     color: #454545;
 }
+
 @media (max-width:900px) {
     .my-orders-order{
         grid-template-columns: 1fr 2fr 1fr;

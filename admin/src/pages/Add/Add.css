@@ -33,11 +33,3 @@
     color: white;
     cursor: pointer;
 }
-@media (max-width:400px) {
-    .add{
-        margin-left: 15px;
-    }
-    .add-product-name, .add-product-description{
-        width: max(40%,220px);
-    }
-}
